@@ -1,0 +1,14 @@
+{
+  "name": "dot-obj-arr",
+  "version": "1.0.0",
+  "description": "get object and array properties using dot path",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "temp-name-here",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
